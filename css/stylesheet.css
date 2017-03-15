@@ -67,7 +67,7 @@ a{color:inherit}
 	background-color:inherit;
 	color:inherit;
 	width:10%;
-	border:none;
+	border-bottom:3px #fff solid;
 	outline:none;
 	font-size: 80%;
 	display:block
@@ -131,4 +131,4 @@ header{
 .bc-text-light-blue{color:#87CEEB!important}
 .bc-text-indigo{color:#3f51b5!important}
 .bc-text-grey,.bc-text-gray{color:#757575!important}
-.bc-bar-item:hover{border-bottom:3px #f00 solid !important}
+.bc-bar-item:hover{border-bottom:3px #f00 solid}
