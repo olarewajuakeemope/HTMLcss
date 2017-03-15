@@ -1,0 +1,25 @@
+{
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "HTML and Css application for day3 of Andela bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/HTMLcss.git"
+  },
+  "author": "Olarewaju Akeem Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/HTMLcss/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/HTMLcss#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
