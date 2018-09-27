@@ -1,5 +1,5 @@
 # HTMLcss
-HTML and Css application for day3 of Andela bootcamp
+HTML and Css application
 The site mimmicks twitter.com UI
 
 1. Download or clone the application to your PC
